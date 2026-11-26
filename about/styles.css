@@ -241,6 +241,7 @@ h2 { margin-bottom: 0; color: var(--navy); font-size: clamp(2.7rem, 5vw, 5rem); 
   h2 { font-size: 2.7rem; }
   .page-hero h1, .profile-hero-copy h1 { font-size: 3.8rem; }
   .hero-actions .button { width: 100%; }
+  .hero-index { display: none; }
   .profile-caption { right: 0; bottom: 22px; }
   .principles-grid { grid-template-columns: 1fr; }
   .principle { min-height: 280px; }
